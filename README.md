@@ -1,2 +1,2 @@
 # Portfolio
-Misc. Code Samples
+Miscellaneous Code Samples
